@@ -1,0 +1,5 @@
+C:\work example\beanStreamDemo_C\beanStreamDemo_C\bin\beanStreamDemo_C.dll
+C:\work example\beanStreamDemo_C\beanStreamDemo_C\bin\beanStreamDemo_C.pdb
+C:\work example\beanStreamDemo_C\beanStreamDemo_C\obj\Debug\beanStreamDemo_C.csprojResolveAssemblyReference.cache
+C:\work example\beanStreamDemo_C\beanStreamDemo_C\obj\Debug\beanStreamDemo_C.dll
+C:\work example\beanStreamDemo_C\beanStreamDemo_C\obj\Debug\beanStreamDemo_C.pdb
